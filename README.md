@@ -27,9 +27,9 @@ requested and sends it to the PolyCom phone via a push message. The phone will
 instantly dial the number.
 
 # TODO:    
-⋅⋅* Add some kind of confirmation before dialing to prevent accidental and 
+  * Add some kind of confirmation before dialing to prevent accidental and 
 potentially embarassing calls.    
-⋅⋅* Get rid of hard coded creds    
-⋅⋅* Possibly make some kind of SFX for auto-installation    
-⋅⋅* Make an easier way to change the phone's IP, possibly make a selection dialog to
+  * Get rid of hard coded creds    
+  * Possibly make some kind of SFX for auto-installation    
+  * Make an easier way to change the phone's IP, possibly make a selection dialog to
  change between phones    
