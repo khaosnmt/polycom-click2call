@@ -2,7 +2,14 @@
 ###### Published:	October 7, 2018
 
 # ABOUT:
-_**WARNING:**_ v1.1a is **UNTESTED**
+_**WARNING:**_ **UNTESTED**
+There is an issue I've run into with Windows 8/8.1/10 where I can't get the
+Windows protocol handler to assign this script to tel: and callto:
+It works until a reboot, then breaks and I haven't figured it out.
+
+
+# If anyone sees this and knows the fix, make a PR, please!
+
 
 This is a small helper batch file designed to allow PolyCom phones that do not
 directly support Click2Call to accomplish the same task via "Push Messaging."
